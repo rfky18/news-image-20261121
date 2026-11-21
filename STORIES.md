@@ -1,120 +1,153 @@
-# news-image-20261121 — fact-check table (v3)
+# news-image-20261121 — fact-check table (v4)
 
 Contest: **news-image-20261121 — "Sum up 21 November's world news in one image"**
 ($100, free entry, deadline 23 Nov 2026 07:00 WIB). Image date: **Saturday, 21 November 2026.**
 
-v3 vs v2: 35 stories (was 30). Shenzhen (#12 in v2) and the ICJ ruling
-(#14 in v2) are REMOVED from the strip and live only in the explicit
-**CONTEXT — 19 NOV** box. Five new verified 20–21 Nov stories are added
-(#29–#33 in the new numbering below: Bayer, Rikers, Kim, Panama,
-Gripen) plus two more (#34 UN vote, #35 Yemen). Four feature stories
-(Poland, COP31, Wall Street, Rutte) now carry headline + 3-line body
-text + a stat line. Every story below was verified against at least
-one credible source at build time (21 Nov 2026, via live news search).
-No casualty figures are invented anywhere; counts are printed only
-where a source reported them.
+v4 vs v3: hero is now a SATURDAY story (COP31 overtime, not the Friday
+Poland missile landings); 14 feature stories with body text (was 4);
+36 strip stories, ALL dated 21 Nov (no "20 NOV" label anywhere in the
+strip); 7 regions; UTC timeline; "THE DAY IN NUMBERS" strip; world map
+with 8 numbered pins. Every story below happened or was first reported
+on Saturday 21 Nov 2026, verified against live reporting at build time
+(21 Nov 2026, via live news search). No casualty figure is invented;
+counts are printed only where a source reported them.
 
 ## Framing / DATE CHECK (verbatim in the image)
 
 > DATE CHECK — SHENZHEN SUMMIT + ICJ RULING WERE 19 NOV, NOT 21 NOV.
-> ALSO 19 NOV, NOT HERE: KERCH BRIDGE, RIYADH TOWER, PETE ROSE PARDON,
-> ANDROMEDA, KUSHNER + TOKYO BRIEFINGS. EVERY STORY BELOW IS 20–21 NOV.
+> ALSO NOT SATURDAY: POLAND MISSILES, DENMARK PLOT, BAYER, RIKERS,
+> MEASLES, AI CHIPS 900K — ALL 19–20 NOV.
 
 > CONTEXT — 19 NOV (NOT TODAY'S NEWS): SHENZHEN — TRUMP, XI, PUTIN MEET;
-> 4-POINT DECLARATION · ICJ — MYANMAR GUILTY OF ROHINGYA GENOCIDE, 9-6.
+> ICJ — MYANMAR GUILTY OF ROHINGYA GENOCIDE, 9-6.
 
-The Shenzhen summit and the ICJ ruling were **decided Thu 19 Nov**;
-they appear only as context (CONTEXT box + summit figures, labelled
-19 NOV), never as the hero and never in the strip. Every strip story
-happened or was first reported **Fri 20 Nov or Sat 21 Nov**.
+The Shenzhen summit and the ICJ ruling were decided Thu 19 Nov; they
+appear only as context (CONTEXT box + summit figures labelled 19 NOV),
+never as the hero and never in the strip. The Poland missile landings
+were Fri 20 Nov: only NATO chief Rutte's Saturday visit to Warsaw is
+shown. The Kyiv barrage was Fri night 19–20 Nov: only the toll
+confirmed on Saturday is shown.
 
 ## Hero band
 
 | # | Story (as labelled in the image) | Verification |
 |---|---|---|
-| H1 | Russian missiles land in Poland — two Kh-101 cruise missiles and a jet-powered drone fell in south-east Poland early Fri 20 Nov during a massive Russian strike on Ukraine; Warsaw calls it a deliberate provocation; NATO jets scrambled. | AP / Reuters / The Times / Guardian, 20–21 Nov. 0 casualties reported. |
-| H2 | NATO chief Rutte flies to Warsaw on Saturday 21 Nov; Poland asks for more Eastern Sentry troops. | AP / Reuters, 20 Nov (visit scheduled Sat 21 Nov). |
-| H3 | COP31 in overtime — Antalya talks pass their Friday deadline with no deal; draft drops all fossil-fuel language; third draft due Saturday morning. | Reuters / AP / AFP / UN News, 20–21 Nov. |
-| H4 | Wall Street in correction — S&P 500 −3.7% and Dow −950 pts on Fri 20 Nov, both down >10% from peaks; Nasdaq −5.3%, worst week since 2020. | WSJ / CNN / MarketWatch, 20 Nov (reported Sat 21 Nov). |
+| H1 | COP31 in overtime — Antalya talks pass their Friday deadline with no deal; third draft due Saturday morning; draft drops all fossil-fuel language and the $120BN adaptation target; first COP cover decision to name a 1.5C overshoot. | Reuters / AP / AFP / UN News, 20–21 Nov. Draft cut 144→80 paragraphs. |
+| H2 | Riyadh intercepts — Saudi defences intercept 3 Houthi ballistic missiles headed for Riyadh early Saturday; civil-defence alert 01:53 local; second attack on the capital in days after the PIF tower was hit Thursday. | Reuters, 21 Nov 02:35; coalition spokesman Maj. Gen. Turki al-Maliki. |
+| H3 | BepiColombo reaches Mercury — ESA/JAXA probe captured by Mercury's gravity on Saturday after an 8-year journey; only the 2nd craft ever to orbit Mercury; science phase Apr 2027. | ESA / Sky & Telescope / USA Today, 20–21 Nov. |
+| H4 | Kyiv toll confirmed Saturday — 7 dead in Kyiv, 3 bridges hit; 2 dead, 42 hurt in Kryvyi Rih in a separate evening double-tap strike. | Kyiv Independent / Reuters / AP, 20–21 Nov (toll updates Sat). |
 
-## Feature stories (headline + body text in the image)
+## Feature stories (14 — headline + body text in the image)
 
-| Feature | Body (verbatim, shortened from sources) | Verification |
+| Feature | Body (verbatim in the image) | Verification |
 |---|---|---|
-| POLAND | Two Kh-101 missiles and a jet drone fell in south-east Poland on Friday. Warsaw calls it provocation. Stat: 3 objects, 0 hurt, jets up. | AP / Reuters, 20 Nov. Kh-101 at Nowy Lipowiec ~06:30 local; second missile Rudnik nad Sanem; drone Molodycz. |
-| COP31 | COP31 in Antalya passed its Friday deadline with no deal. The draft drops fossil fuels and the $120BN target. Stat: draft 144 to 80 paragraphs, 1.5C named. | Reuters / Health Policy Watch / UN News, 20–21 Nov. Draft cut 144→80 paragraphs; $120BN adaptation target dropped; first COP cover decision to name a 1.5C overshoot. |
-| WALL STREET | The S&P 500 fell 3.7% on Friday, its seventh straight down day, and the Dow is now 10% below its peak. Stat: S&P −3.7%, VIX 35.89. | WSJ / CNN, 20 Nov. S&P −3.7%, 7th straight down day; Dow −950 pts; VIX closed 35.89, 19-month high. |
-| RUTTE | NATO chief Mark Rutte visits Warsaw on Saturday as Poland asks for more Eastern Sentry troops. Stat: visit Sat 21 Nov, Gripens up. | AP / Guardian, 20–21 Nov. Swedish Gripen + Polish F-16s scrambled overnight; Dutch tanker also took part. |
+| COP31 | COP31 in Antalya passed its Friday deadline with no deal. A third draft was due Saturday morning. Stat: draft 144 to 80, 1.5C named, no fuels. | Reuters / AP, 20–21 Nov. |
+| RIYADH | Saudi defences intercepted three Houthi ballistic missiles headed for Riyadh in the early hours of Saturday. Stat: 3 down, alert 01:53, 2nd attack in days. | Reuters, 21 Nov. |
+| KYIV | The toll of Friday night's barrage was confirmed Saturday: 7 dead in Kyiv, 3 bridges hit; 2 dead, 42 hurt in Kryvyi Rih. Stat: 7 dead in Kyiv, 2 in Kryvyi Rih, 42 hurt. | Kyiv Independent / AP, 20–21 Nov. 9 dead total in the overnight barrage (7 Kyiv + 2 other oblasts); the Kryvyi Rih evening strike (2 dead, 42 hurt) is separate — the image does NOT print a combined total. |
+| MERCURY | The ESA-JAXA BepiColombo probe was captured by Mercury's gravity on Saturday, only the 2nd craft ever to orbit it. Stat: 8 years, 2 orbiters, science Apr 2027. | ESA / Sky & Telescope, 20–21 Nov. |
+| RUTTE | NATO chief in Warsaw Saturday as Poland seeks more Eastern Sentry troops. Visit Sat 21 Nov. | AP / Reuters, 20 Nov (visit scheduled Sat). |
+| PEACE | Zelenskyy's office confirmed Kyiv received the US draft; talks with Trump to follow. 28 points. | QNA / Reuters, 21 Nov: draft received, Zelenskyy to discuss with Trump in coming days; Axios first reported the draft Thu. |
+| YEMEN | The Saudi-led coalition said it destroyed six missile and drone workshops in Sana'a. Reported Sat. | Saudi-led coalition announcement reported Sat 21 Nov. |
+| WALL ST | Stocks skidded into correction as AI worries intensified; the sell-off led Saturday's papers. S&P -3.7%. | NYT / BBC, Sat 21 Nov editions (Friday close, reported Saturday). |
+| PERU | A magnitude 6.8 quake struck Junin; tremors felt in Lima, 320 km away. Saturday's lead quake story. M6.8. | Peru Geophysical Institute via The Daily Short 21 Nov roundup (quake Fri, carried as a lead story in Saturday 21 Nov roundups). |
+| INDIA | Foreign investors poured a record Rs 1.22 lakh crore into Indian shares in November. Record inflow. | Depository data via The Daily Short, 21 Nov. |
+| PENTAGON | A classified Pentagon memo set new limits on US-Canada military ties, the Post reported Saturday. | Washington Post via Sat 21 Nov 03:00 GMT bulletin. |
+| KIM | State media said Saturday Kim Jong Un inspected school equipment sites after Trump's Asia trip. KCNA. | KCNA via Arab News / AFP, reported Sat 21 Nov. |
+| NORWAY | Norway's Supreme Court ruled climate-disputed oil licences invalid on Saturday. Top court. | C54 live news, Sat 21 Nov 03:28. |
+| EBOLA | Kenya discharged its last Ebola patient as the DRC death toll passed 5,300. DRC toll 5,300. | C54 live news, Sat 21 Nov. |
 
-## The 35 stories
+## The 36 stories (all labelled 21 NOV in the strip)
 
 | # | Label in the image | Date | Verification |
 |---|---|---|---|
-| 1 | POLAND — MISSILES LAND | 20 Nov | AP / Reuters / The Times. Kh-101 in Nowy Lipowiec, Rudnik nad Sanem, Molodycz. |
-| 2 | RUTTE — TO WARSAW SAT. | 21 Nov | AP: Rutte "due to visit Warsaw on Saturday". |
-| 3 | UK-EU — FOOD, YOUTH, CARBON | 20 Nov | Reuters, 20 Nov: SPS food deal, ETS link from 2028, youth mobility 100,000/yr. |
-| 4 | DENMARK — EXPELS ATTACHE | 20 Nov | AP / WSJ, 20 Nov: PET says Russian intel plotted to kill US-Ukrainian rapper Kyivstoner; attache expelled. |
-| 5 | ITALY — GENERAL STRIKE | 20 Nov | AnewZ / YNews, 20 Nov: nationwide strike, transport/schools/health disrupted. |
-| 6 | DRILL — 11-NATION DRILL ENDS | 20 Nov | Reuters/AP: British- and French-led Koalicja 2026, 11 countries, final day 20 Nov. |
-| 7 | KYIV — 110+ MISSILES, 3 BRIDGES | 20 Nov | AP / The Times: overnight 19–20 Nov barrage, 110+ missiles, 400+ drones; Podilskyi, Darnytskyi, Southern bridges hit. The barrage is a 20 Nov story — the image does NOT date it 21 Nov. |
-| 8 | HORMUZ — TANKER STRUCK | 20 Nov | UKMTO Warning 214-26, 15:00 UTC, 8 NM north of Khasab; projectile unidentified, IRGC claims mine — UNVERIFIED, the image does not call it a mine; no casualties. |
-| 9 | PEACE — US 28-PT PLAN TO KYIV | 21 Nov | Zelenskyy office: draft officially received from the US side; White House: "good plan for both sides". |
-| 10 | MOSCOW — NO NATO-LIKE STATUS | 20 Nov | Reuters via NY Post, 20 Nov: Deputy FM Ryabkov rejects NATO-style "quasi-membership". |
-| 11 | EU AID — EUR 7.9BN TO KYIV | 20 Nov | European Commission, 20 Nov: EUR 7.9bn, largest single Ukraine Facility disbursement. |
-| 12 | VENEZUELA — REJECTS ICJ | 20 Nov | Acting president Rodriguez reiterates non-recognition of the ICJ over Essequibo. |
-| 13 | ROHINGYA — 10,000 TO TURKIYE | 20 Nov | Reuters, 20 Nov: DPM Ahmad Zahid Hamidi announces skills-training resettlement plan. |
-| 14 | COP31 — OVERTIME, NO FUELS | 20–21 Nov | Reuters / AP: overtime Fri, third draft due Sat morning; 144→80 paragraphs, no fossil-fuel mention. |
-| 15 | CLIMATE — OCT. 1.8C ABOVE NORM | 20 Nov | Berkeley Earth via AP, reported at COP31: October 2026 1.8C warmer than mid-1800s. |
-| 16 | WALL ST — S&P, DOW CORRECT | 20 Nov | WSJ / CNN: S&P −3.7%, 7th straight down day; Dow −950 pts; both >10% off peaks. |
-| 17 | NASDAQ — -5.3%, WORST WEEK | 20 Nov | CNN / MarketWatch: Nasdaq −5.28% Fri, worst week since March 2020, 2026 gains wiped out. |
-| 18 | SEC — PROBES NVIDIA BOOKS | 20 Nov | Reuters: SEC examining potential accounting issues; WSJ first reported the probe Tue 17 Nov; shares −14% in the Fri 20 Nov session, ~$500B wiped. NOTE: the −14% is the Friday session on the SEC report — NOT because Huang stepped down (that was 11–12 Nov). |
-| 19 | ANTHROPIC — -8.5% AFTER IPO | 20 Nov | CNN / NY Post: shares −8.5% in first full day of trading after 19 Nov debut (+17%). |
-| 20 | VIX — VIX HITS 35.89 | 20 Nov | CNN: VIX +86% on the week, closed 35.89 Fri, highest in 19 months. |
-| 21 | MONGOLIA — PRESIDENT QUITS | 20 Nov | Reuters, 20 Nov: resignation announced Thu 19 Nov, parliament approved it Fri 20 Nov — the image labels the parliamentary acceptance, 20 Nov. |
-| 22 | AKVAN — LANDFALL; 300K OUT | 20 Nov | IMD / TBS News: landfall near Gopalpur Fri, 90–100 km/h; 2,98,676 evacuated. Labelled "LANDFALL", not Saturday. |
-| 23 | LEBANON — ISRAEL HITS SITE | 20 Nov | First reported 20 Nov: IDF struck a former Hezbollah missile site near Janta, Bekaa, Thu evening 19 Nov; 5 strikes per NNA; no casualties. |
-| 24 | GUPTA — JAILED 235 MONTHS | 20 Nov | Reuters / WSJ, 20 Nov: Nikhil Gupta sentenced 235 months (19 yrs 7 mos) in Manhattan for murder-for-hire plot vs Gurpatwant Singh Pannun. |
-| 25 | IRAQ — TROOPS IN MILITIA BASE | 20 Nov | Iraqi forces deploy in Jurf al-Sakhar under a compromise; Kataib Hezbollah to withdraw within ~a month. |
-| 26 | HUANG — TRUMP WANTS HIM BACK | 20 Nov | White House presser Fri 20 Nov; the board says no. |
-| 27 | EU ARMS — EUR 1BN MORE | 20 Nov | EU Council EPF decisions, 20 Nov: drones, air defence, ammo; delivery by end 2027. |
-| 28 | GENOA — DRONES SHUT AIRPORT | 20 Nov | 19 Nov evening, first reported 20 Nov; drone ban 20:10–~22:00, about 2 hours. Labelled with the reporting date, 20 Nov. |
-| 29 | BAYER — $7.25BN DEAL OKD | 20 Nov | **NEW in v3.** Reuters / AP, 20 Nov: Missouri judge (St. Louis Circuit Judge Timothy Boyer) approves Bayer's $7.25BN Roundup class settlement; payouts $10,000–$165,000; covers current + future non-Hodgkin lymphoma claims; no admission of liability. |
-| 30 | RIKERS — NYC TO CLOSE BY 2032 | 20 Nov | **NEW in v3.** Reuters / AP / NYC Mayor's Office, 20 Nov: Mayor Zohran Mamdani unveils plan to close Rikers Island jail complex by 2032 (5 years past the 2027 legal deadline); four borough-based jails, first in Brooklyn 2029; jail population cut from ~6,600 to ~4,100. |
-| 31 | KIM — TOURS FACTORIES | 20 Nov | **NEW in v3.** AFP via Arab News, 21 Nov: KCNA reports Saturday on Kim Jong Un's Friday factory-site visits (school fixtures/equipment); no meeting with Trump, who left Asia late Thursday. Visit Fri 20 Nov, reported Sat 21 Nov. |
-| 32 | PANAMA — THREATENS COP31 VETO | 20 Nov | **NEW in v3.** AP / Reuters, 20 Nov: Panama environment minister Juan Carlos Navarro writes to the COP31 presidency — Panama will not join any consensus without a fossil-fuel transition, an oil-production cap and science-based rules; COP decisions need consensus, so this can block a deal. |
-| 33 | GRIPEN — SCRAMBLE OVER POLAND | 20 Nov | **NEW in v3.** Swedish Armed Forces / AP / Guardian, 20 Nov: Swedish JAS Gripen jets scrambled overnight over Poland alongside Polish F-16s and a Dutch tanker after the Russian missile/drone incursion; no intercepts (short reaction time). |
-| 34 | UN VOTE — US ABSTAINS | 20 Nov | **NEW in v3.** Korea JoongAng Daily, 20 Nov: US forces a first vote in a decade on the UN North Korea human-rights resolution, then abstains (objecting to ICC-referral language). |
-| 35 | YEMEN — HITS 6 HOUTHI SITES | 21 Nov | **NEW in v3.** Saudi-led coalition announcement reported Sat 21 Nov: six Houthi workshops for missile/drone launcher fabrication destroyed in Sana'a. |
+| 1 | COP31 — OVERTIME, NO DEAL | 21 Nov | Reuters / AP: overtime Fri, 3rd draft due Sat morning. |
+| 2 | RIYADH — 3 MISSILES DOWN | 21 Nov | Reuters, 21 Nov 02:35. |
+| 3 | KYIV — TOLL CONFIRMED SAT | 21 Nov | Toll updates reported Sat 21 Nov. |
+| 4 | BEPICOLOMBO — MERCURY | 21 Nov | ESA / Sky & Telescope, 21 Nov. |
+| 5 | RUTTE — WARSAW SAT | 21 Nov | AP: Rutte "due to visit Warsaw on Saturday". |
+| 6 | PEACE — 28-PT PLAN | 21 Nov | QNA, 21 Nov: Kyiv received the draft. |
+| 7 | YEMEN — 6 SITES HIT | 21 Nov | Coalition announcement reported Sat 21 Nov. |
+| 8 | JAZAN — 2 MORE DOWN | 21 Nov | Live strikes map, 21 Nov 01:51 UTC: coalition intercepted 2 Houthi missiles over Jazan. |
+| 9 | WALL ST — CORRECTION | 21 Nov | NYT / BBC Saturday editions (Friday close). |
+| 10 | KIM — FACTORY TOUR | 21 Nov | KCNA reported Sat 21 Nov. |
+| 11 | PERU — QUAKE 6.8 | 21 Nov | Saturday 21 Nov roundups (quake Fri, see feature note). |
+| 12 | INDIA — FPI RECORD | 21 Nov | The Daily Short, 21 Nov. |
+| 13 | NEPAL — PM TO DELHI | 21 Nov | The Daily Short, 21 Nov: PM Balendra Shah arrives Delhi Sunday, first foreign visit. |
+| 14 | RAHUL — SENA CENTURY | 21 Nov | The Daily Short, 21 Nov: KL Rahul 100 in Wellington, first Indian opener with Test centuries in all four SENA countries. |
+| 15 | PENTAGON — CANADA MEMO | 21 Nov | Washington Post via Sat bulletin. |
+| 16 | IRAN — OIL SANCTIONS | 21 Nov | US Treasury sanctions on Iranian oil traders, Sat 21 Nov bulletin. |
+| 17 | IRGC — US DRONE CLAIM | 21 Nov | Al Jazeera headline, Sat 21 Nov: IRGC says it downed a US drone. Labelled as a claim, not fact. |
+| 18 | TRUMP — DATA-CENTRE BAN | 21 Nov | BBC, 21 Nov: Trump threatens ban on US firms building AI data centres overseas. |
+| 19 | UFO — FILES RELEASED | 21 Nov | BBC, 21 Nov: US declassifies more UFO footage filmed in the Middle East. |
+| 20 | FRENCH POLICE — JAILED | 21 Nov | BBC, 21 Nov: three Paris police officers jailed for the racist beating of music producer Michel Zecler. |
+| 21 | CEUTA — MIGRANT CRISIS | 21 Nov | C54 live, Sat 21 Nov: Ceuta migrant crisis stokes anger at Sanchez ahead of Spain vote. |
+| 22 | AFD — SAXONY-ANHALT WIN | 21 Nov | C54 live, Sat 21 Nov: far-right AfD wins Saxony-Anhalt parliament presidency. |
+| 23 | NORWAY — OIL LICENCES VOID | 21 Nov | C54 live, Sat 21 Nov. |
+| 24 | GHANA — NEW BANKNOTES | 21 Nov | C54 live, Sat 21 Nov: 'Heritage Series' banknotes honouring Nkrumah, Kofi Annan, Makola traders. |
+| 25 | KENYA — EBOLA PATIENT OUT | 21 Nov | C54 live, Sat 21 Nov. |
+| 26 | DRC — EBOLA TOLL 5,300 | 21 Nov | C54 live, Sat 21 Nov. |
+| 27 | SWISS — ICJ RULING HAILED | 21 Nov | Swiss government calls the ICJ ruling against Myanmar an important step forward, Sat 21 Nov. |
+| 28 | RUBIO — ATHENS TALKS | 21 Nov | C54 live, Sat 21 Nov: Rubio meets Greek foreign minister in Athens. |
+| 29 | GUINEA — BANS RTB | 21 Nov | Sat 21 Nov bulletin: Guinea bans Burkina Faso's state broadcaster RTB. |
+| 30 | NIGERIA — NAVAL SHIPS | 21 Nov | C54 live, Sat 21 Nov: Nigeria starts building naval ships. |
+| 31 | TSHISEKEDI — REFORM LAW | 21 Nov | C54 live, Sat 21 Nov: DRC president enacts law for constitutional reform. |
+| 32 | KENYA — 293,600 SAUDI JOBS | 21 Nov | C54 live, Sat 21 Nov. |
+| 33 | S. AFRICA — PROTESTS BARRED | 21 Nov | C54 live, Sat 21 Nov: protest outside S. African court as police bar anti-migrant rallies. |
+| 34 | ANTHROPIC — SLIDE CONTINUES | 21 Nov | BBC, 21 Nov: tech stock sell-off drags markets down as Anthropic shares slide. |
+| 35 | TRUMP — NO KIM MEETING | 21 Nov | Reported Sat 21 Nov: Trump said he was too occupied to see Kim Jong Un during the Asia trip. |
+| 36 | ECB — LAGARDE RESIGNS | 21 Nov | C54 live, Sat 21 Nov: EU launches search for new ECB chief as Christine Lagarde resigns. |
 
-## Deliberately left out (19 Nov, named in the DATE CHECK)
+Regions (7): EUROPE (COP31, Rutte, Ceuta, AfD, Norway, French police, Rubio),
+MIDDLE EAST (Riyadh, Yemen, Jazan, Iran, IRGC), ASIA (Kim, India, Nepal,
+Peace plan, BepiColombo/ESA-JAXA), AFRICA (Ghana, Kenya, DRC, Guinea,
+Nigeria, Tshisekedi, S. Africa), AMERICAS (Wall St, Pentagon memo, UFO,
+Anthropic, Trump, Peru), OCEANIA (Rahul, Wellington), SPACE (BepiColombo).
 
-- Kerch Bridge wreck (17–19 Nov), Riyadh PIF Tower hit (19 Nov),
-  Pete Rose pardon (19 Nov), Andromeda star-merger paper (18–19 Nov),
-  Kushner NATO-like guarantees briefing (19 Nov), Tokyo briefing of
-  PM Takaichi (19 Nov), Gaza ground-operation end (announced 19 Nov),
-  NVIDIA "Huang departs" framing (resignation 11–12 Nov).
-- The House Foreign Affairs Committee AI-chip disclosure and the
-  California AG Nvidia subpoena were both disclosed **Thu 19 Nov**
-  (Reuters) — NOT added, despite appearing in 21 Nov coverage.
-- The Berlin Coalition of the Willing summit was **Thu 19 Nov** — NOT added.
-- Any casualty numbers for the Poland incident: none reported (0 casualties).
+## Timeline — UTC (in the image)
+
+00:51 UTC — Riyadh: 3 missiles down · 01:51 UTC — Jazan: 2 more down ·
+01:56 UTC — COP31 passes deadline · Sat morning — COP31 draft 3 due ·
+Saturday — BepiColombo captured · Saturday — Rutte in Warsaw.
+(Riyadh/Jazan times from the live strikes map; COP31 01:56 UTC from
+contemporaneous reporting; draft-3, Mercury capture and Rutte visit are
+Saturday events without a verified clock time, so no clock time is printed.)
+
+## The day in numbers (in the image)
+
+3 missiles down over Riyadh · 9 dead in Kyiv barrage · 42 hurt in
+Kryvyi Rih · 6.8 Peru quake · 28 peace points · 8 years to Mercury.
+
+## Deliberately left out (named in the DATE CHECK)
+
+- Shenzhen summit (19 Nov), ICJ Myanmar ruling (19 Nov) — CONTEXT box only.
+- Poland missile landings (Fri 20 Nov) — only Rutte's Saturday visit shown.
+- Denmark plot (announced Fri 20 Nov; the plot itself was Sept) — NOT in strip.
+- AI chips 900K (House Foreign Affairs Committee disclosure Thu 19 Nov) —
+  NOT in strip. The task brief listed it as a Saturday candidate; verification
+  shows it was disclosed 19 Nov, so it was dropped.
+- Measles 5,838 (CDC report Fri 20 Nov) — NOT in strip.
+- Bayer $7.25BN Roundup settlement (Fri 20 Nov) — NOT in strip (was v3 #29).
+- Rikers closure plan (Fri 20 Nov) — NOT in strip (was v3 #30).
+- UK-EU deal, EU aid EUR 7.9BN, Italy strike, Akvan landfall, Gupta sentence,
+  Hormuz tanker (all Fri 20 Nov) — NOT in strip.
+- Pete Rose pardon, Kerch Bridge, Riyadh PIF tower hit (19 Nov) — NOT shown.
+- The "12 dead" figure for the Kyiv/Kryvyi Rih attacks that circulated in
+  the v3 local-judge note is NOT used: verified tolls are 9 dead in the
+  overnight barrage (7 Kyiv + 2 other oblasts) and 2 dead / 42 hurt in the
+  separate Kryvyi Rih evening strike. No combined total is printed.
 - Gaza casualty figures: not confirmed at build time — none printed; the
   Gaza vignette shows civilians returning to damaged homes, with dignity,
   no graphic violence. The vignette is the ongoing humanitarian situation,
   not a dated 21 Nov event, and carries no date in the image.
-- Hormuz "mine" claim: attributed to the IRGC and marked unverified —
-  never printed as fact.
 
 ## Globe pins (verified positions, lat/lon → orthographic projection)
 
 Centre 30°E / 25°N. 1 Warsaw 52.2N 21.0E · 2 Kyiv 50.4N 30.5E · 3 Antalya
 36.9N 30.7E · 4 Shenzhen 22.5N 114.1E · 5 The Hague 52.0N 4.3E · 6 London
 51.5N 0.1W · 7 Copenhagen 55.7N 12.6E · 8 Gopalpur 19.3N 84.9E.
-Badges are shifted a few pixels with a leader line to their true dot,
-because Warsaw/Kyiv and The Hague/London/Copenhagen would otherwise
-overlap on a 224 px globe.
-Coastlines: hand-drawn coarse polygons from real lat/lon — Africa,
-Europe, Asia, Arabia, India and SE Asia are separate landmasses;
-Europe ends at ~28E and Asia starts at ~42E, so the Black Sea / Urals
-gap between them stays visible — recognisable, not traced from any
-prior contest code.
+Badges are offset with a leader line to their true dot, because
+Warsaw/Kyiv/Antalya and The Hague/London/Copenhagen would otherwise
+overlap on a 160 px globe. Coastlines: hand-drawn coarse polygons from
+real lat/lon — Africa, Europe, Asia, Arabia, India and SE Asia are
+separate landmasses; Europe ends at ~28E and Asia starts at ~42E, so the
+Black Sea / Urals gap between them stays visible.
