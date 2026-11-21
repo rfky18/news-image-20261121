@@ -1,16 +1,47 @@
-# news-image-20261121 — fact-check table (v4)
+# news-image-20261121 — fact-check table (v5)
 
 Contest: **news-image-20261121 — "Sum up 21 November's world news in one image"**
 ($100, free entry, deadline 23 Nov 2026 07:00 WIB). Image date: **Saturday, 21 November 2026.**
 
-v4 vs v3: hero is now a SATURDAY story (COP31 overtime, not the Friday
-Poland missile landings); 14 feature stories with body text (was 4);
-36 strip stories, ALL dated 21 Nov (no "20 NOV" label anywhere in the
-strip); 7 regions; UTC timeline; "THE DAY IN NUMBERS" strip; world map
-with 8 numbered pins. Every story below happened or was first reported
-on Saturday 21 Nov 2026, verified against live reporting at build time
-(21 Nov 2026, via live news search). No casualty figure is invented;
-counts are printed only where a source reported them.
+v5 vs v4: TWO changes only — (1) full typography rebuild from real fonts
+(Bodoni Moda masthead, Libre Baskerville Bold main headlines, Gelasio
+secondary headlines/body, Liberation Sans dates/labels/metadata, Roboto
+small captions — all rendered via a real-font bitmap atlas, no
+hand-drawn stroke font); (2) story #36 replaced. Everything else —
+hero, 14 features with body text, 36 strip stories, 7 regions, UTC
+timeline, "THE DAY IN NUMBERS" strip, DATE CHECK, CONTEXT — 19 NOV box,
+globe, layout and positions — is identical to v4.
+
+## Why #36 changed
+
+v4 strip #36 "ECB — LAGARDE RESIGNS" was labelled 21 NOV, but Christine
+Lagarde announced her resignation on **29 Oct 2026** (effective 7 Feb
+2027; the succession process had already been running since 6 Nov).
+That was a false date (local-judge v4 finding, verified independently
+by the coordinator). It is removed entirely in v5.
+
+The replacement was chosen after checking every Saturday candidate in
+the workspace's verified research (live-search tool was down during the
+v5 build, so no new live search was possible; see Verification below):
+Mongolia's president quitting, Denmark expelling a Russian attaché,
+the SEC/Nvidia probe, Trump urging Huang back, Venezuela, Lebanon,
+Iraq, EU arms, the Italy strike, the Hormuz tanker, the UK–EU deal
+and EU aid are ALL dated **20 Nov** in the v2/v3 strip labels (verified
+twice: builder live search + coordinator read of the rendered strips).
+No further verified Saturday story exists outside the 35 already in
+the strip. So v5 uses the fallback the brief itself allows: a 20 Nov
+development that forms part of the 21 Nov news cycle, with an HONEST
+date label.
+
+## Story #36 (new)
+
+| # | Label in the image | Date | Verification |
+|---|---|---|---|
+| 36 | PANAMA — COP31 VETO THREAT | 20 NOV | v3 strip (builder live search 21 Nov + coordinator read): "PANAMA — THREATENS COP31 VETO · 20 NOV". Panama's veto threat is part of the COP31 negotiation story — the same talks that ran into overtime on Saturday 21 Nov (the hero story). Labelled **20 NOV** in the strip, NOT 21 NOV: it is shown as a Friday development of the Saturday COP31 cycle, not as Saturday's news. |
+
+The strip is therefore 35 stories labelled 21 NOV + 1 story honestly
+labelled 20 NOV. Nothing else in the image claims #36 happened on
+Saturday: the DATE CHECK, the hero and the features are untouched.
 
 ## Framing / DATE CHECK (verbatim in the image)
 
@@ -56,7 +87,7 @@ confirmed on Saturday is shown.
 | NORWAY | Norway's Supreme Court ruled climate-disputed oil licences invalid on Saturday. Top court. | C54 live news, Sat 21 Nov 03:28. |
 | EBOLA | Kenya discharged its last Ebola patient as the DRC death toll passed 5,300. DRC toll 5,300. | C54 live news, Sat 21 Nov. |
 
-## The 36 stories (all labelled 21 NOV in the strip)
+## The 36 stories (35 labelled 21 NOV + #36 honestly labelled 20 NOV)
 
 | # | Label in the image | Date | Verification |
 |---|---|---|---|
@@ -95,13 +126,13 @@ confirmed on Saturday is shown.
 | 33 | S. AFRICA — PROTESTS BARRED | 21 Nov | C54 live, Sat 21 Nov: protest outside S. African court as police bar anti-migrant rallies. |
 | 34 | ANTHROPIC — SLIDE CONTINUES | 21 Nov | BBC, 21 Nov: tech stock sell-off drags markets down as Anthropic shares slide. |
 | 35 | TRUMP — NO KIM MEETING | 21 Nov | Reported Sat 21 Nov: Trump said he was too occupied to see Kim Jong Un during the Asia trip. |
-| 36 | ECB — LAGARDE RESIGNS | 21 Nov | C54 live, Sat 21 Nov: EU launches search for new ECB chief as Christine Lagarde resigns. |
+| 36 | PANAMA — COP31 VETO THREAT | 20 Nov | v3 strip (live search 21 Nov + coordinator read): Panama threatened a COP31 veto. Friday development of the Saturday COP31 overtime cycle; labelled 20 NOV on purpose. NOT claimed as Saturday's news. |
 
 Regions (7): EUROPE (COP31, Rutte, Ceuta, AfD, Norway, French police, Rubio),
 MIDDLE EAST (Riyadh, Yemen, Jazan, Iran, IRGC), ASIA (Kim, India, Nepal,
 Peace plan, BepiColombo/ESA-JAXA), AFRICA (Ghana, Kenya, DRC, Guinea,
 Nigeria, Tshisekedi, S. Africa), AMERICAS (Wall St, Pentagon memo, UFO,
-Anthropic, Trump, Peru), OCEANIA (Rahul, Wellington), SPACE (BepiColombo).
+Anthropic, Trump, Peru, Panama), OCEANIA (Rahul, Wellington), SPACE (BepiColombo).
 
 ## Timeline — UTC (in the image)
 
@@ -130,7 +161,16 @@ Kryvyi Rih · 6.8 Peru quake · 28 peace points · 8 years to Mercury.
 - Rikers closure plan (Fri 20 Nov) — NOT in strip (was v3 #30).
 - UK-EU deal, EU aid EUR 7.9BN, Italy strike, Akvan landfall, Gupta sentence,
   Hormuz tanker (all Fri 20 Nov) — NOT in strip.
+- Mongolia president quits (Fri 20 Nov — v2/v3 strips + rank-2 DATE CHECK) —
+  NOT in strip; the v5 brief's lead candidate, ruled out by its date.
+- Denmark expels Russian attaché, SEC probes Nvidia, Trump urges Huang back,
+  Venezuela rejects ICJ, Lebanon, Iraq, EU arms €1BN, Genoa airport, UN vote,
+  Gripen scramble, Rohingya 10,000 to Türkiye, climate Oct 1.8C, Nasdaq,
+  VIX (all Fri 20 Nov per v2/v3 strips) — NOT in strip.
 - Pete Rose pardon, Kerch Bridge, Riyadh PIF tower hit (19 Nov) — NOT shown.
+- ECB / Lagarde resignation (announced 29 Oct 2026) — REMOVED in v5 (was
+  v4 #36, wrongly labelled 21 NOV). The succession search is not a
+  21 Nov story at all.
 - The "12 dead" figure for the Kyiv/Kryvyi Rih attacks that circulated in
   the v3 local-judge note is NOT used: verified tolls are 9 dead in the
   overnight barrage (7 Kyiv + 2 other oblasts) and 2 dead / 42 hurt in the
@@ -151,3 +191,43 @@ overlap on a 160 px globe. Coastlines: hand-drawn coarse polygons from
 real lat/lon — Africa, Europe, Asia, Arabia, India and SE Asia are
 separate landmasses; Europe ends at ~28E and Asia starts at ~42E, so the
 Black Sea / Urals gap between them stays visible.
+
+## Typography (v5 — real fonts via bitmap atlas)
+
+Atlas built by `tools/gen_atlas.py` from real OFL fonts (Google Fonts,
+github.com/google/fonts): Bodoni Moda (masthead "WORLD NEWS", "ALSO
+TODAY"), Libre Baskerville Bold (hero "COP31 IN OVERTIME", feature
+headlines, "THE WORLD AT A CROSSROADS"), Gelasio (secondary headlines,
+feature body text — the metric twin of Georgia), Liberation Sans
+(dates, labels, metadata, strip, DATE CHECK, CONTEXT — the metric twin
+of Helvetica/Arial), Roboto (small captions). Glyphs rendered 2x with
+FreeType and downscaled, with measured kerning; `main.py` only blits
+the atlas (stdlib only, no font engine, no network).
+
+## Verification (v5 build, 21 Nov 2026)
+
+- Atlas: 1024×642 px, `atlas.bin` 657.408 byte (raw grayscale) +
+  `atlas.json` 214.005 byte (glyph map + kerning). 21 styles, ~2.000
+  glyphs, kerning measured per style (Bodoni/Libre Baskerville carry
+  the most pairs; Gelasio measures zero kerning pairs in this build).
+- Render: `python3 main.py` → `/output/entry.png`, 1024×1024,
+  240.219 byte (< 1 MiB), ~0,7 detik per run.
+- Determinism: 2 run di direktori fresh terpisah → sha256 identik
+  `b36f3ab9a023710d824aa2f87df50652744b6b403f3bc58ec5ba1847aa3e457e`.
+- Keterbacaan (dibaca sendiri dari crop resolusi penuh + thumbnail
+  300 px): masthead Bodoni Didone asli, headline Baskerville Bold,
+  body Gelasio — kerning rapi, tidak ada huruf putus (column-gap
+  bersih), semua 36 cerita strip + 14 fitur terbaca. Di 300 px:
+  masthead, tanggal, hero, globe, headline bawah dikenali.
+- Visual-diff vs v4 (perbandingan band + piksel): semua anchor layout
+  identik (top bar, rules y=94/98/102, hero 104–271, vignette
+  278–355, DATE CHECK 362–399, CONTEXT 404–425, ALSO TODAY + rule
+  458, fitur 464–806, strip 807–943, timeline 944–979, numbers,
+  rule 996, headline bawah). Yang berubah HANYA bentuk huruf
+  (font asli vs bitmap v4) + isi #36 (Panama 20 NOV ganti Lagarde).
+- Batasan verifikasi #36: tool pencarian berita live mati selama
+  build v5 (4× gagal); pengganti dipilih dari riset terverifikasi
+  workspace (strip v2/v3 + DATE CHECK rank-2) — semua kandidat Sabtu
+  lain terbukti 20 Nov; Panama 20 NOV dipakai dengan label jujur
+  sesuai klausul brief ("developments reported on November 20 that
+  form part of the November 21 news cycle").
